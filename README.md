@@ -16,7 +16,7 @@ Vue.js源码分析，记录了个人学习Vue.js源码的过程中的一些心�
 ## 目录
 
 ### 源码相关
-
+wangmingkai
 [Vue.js响应式原理](./docs/响应式原理.MarkDown)
 
 [Vue.js依赖收集](./docs/依赖收集.MarkDown)
